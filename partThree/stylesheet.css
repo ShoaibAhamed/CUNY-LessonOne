@@ -1,0 +1,10 @@
+/*@copyright Shoaib Ahamed, contact: shoaib@adrepublicbd.com*/
+
+#monday{background-image:url("images/nyc.jpg"); /*indicating where the image is located.*/
+height: 100%; /*giving our image a height*/
+width: 100%; /*giving our image a width*/
+position: absolute; /*positioing our image*/
+background-repeat: no-repeat; /*we don't our image to be repeated*/
+background-size: cover; /*we want our image to cover the total space*/
+
+}
